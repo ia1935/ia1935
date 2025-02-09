@@ -19,7 +19,7 @@ I’ve been into coding since I was 14, starting with Scratch and MIT App Invent
 
 # What Am I Doing? 🧐🤓
 - Research in Automation at Florida State University 
-- Learning to be a Full-Stack Developer/Machine Learning
+- Learning Full-Stack Development/Machine Learning
 - Developing Bidworm, a student marketplace application to be availiable soon to FSU Students!
 (will scale in the future 🙏)
 - Leetcode
