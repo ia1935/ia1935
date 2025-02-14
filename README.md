@@ -14,7 +14,7 @@ class Imran{
 }
 ```
 
-I’ve been into coding since I was 14, starting with Scratch and MIT App Inventor. From there, I picked up Python and C++, and even created a randomizing alarm app for Android. As I got more into coding, I focused on Web Development, learning HTML, CSS, JavaScript, and working with Java APIs. I love experimenting with new tools, and I’m always trying to learn and grow my skills. Right now, I’m focused on improving my abilities and pushing myself to take on more complex projects. Although I may not be the most knowledgable, I make it my goal to always learn and apply topics to pursue what I love!
+I’ve been into coding since I was 14, starting with Scratch and MIT App Inventor. From there, I picked up Python and C++, and even created a randomizing alarm app for Android. As I got more into coding, I focused on Web Development, learning HTML, CSS, JavaScript, and working with APIs. I love experimenting with new tools, and I’m always trying to learn and grow my skills. Right now, I’m focused on improving my abilities and pushing myself to take on more complex projects. Although I may not be the most knowledgable, I make it my goal to always learn and apply topics to pursue what I love!
 
 
 # What Am I Doing? 🧐🤓
