@@ -8,7 +8,6 @@ My name is Imran and I am a Computer Science Student!
 #include <vector>
 class Imran{
     private:
-    int age =20;
     std::vector<std::string> traits = {"Funny", "Kind", "Creative"};
     std::vector<std::string> hobbies = {"Coding", "Learning", "Football(soccer)", "Basketball", "Exercising"};
 }
